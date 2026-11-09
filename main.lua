@@ -1,4 +1,4 @@
-local up = false
+local up = true
 
 
 if up then 
